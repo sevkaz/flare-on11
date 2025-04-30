@@ -1,1 +1,3 @@
+3- aray        for solution: https://sevcankazdag.com.tr/flare-on-11-ctf-challenge-solutions-array/
+
 And now for something completely different. I'm pretty sure you know how to write Yara rules, but can you reverse them?
